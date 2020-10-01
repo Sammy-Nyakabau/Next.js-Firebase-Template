@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Firebase Boilerplate 👋</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/Sammy-Nyakabau/React-Firebase-Boilerplate/blob/master/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
