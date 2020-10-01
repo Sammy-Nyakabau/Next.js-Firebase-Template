@@ -13,6 +13,7 @@ const GoogleProvider = new firebase.auth.GoogleAuthProvider()
 const FacebookProvider = new firebase.auth.FacebookAuthProvider();
 const DB = firebase.database()
 const StoreDB = firebase.firestore()
+const storage = firebase.storage();
 
 
 export default firebase
@@ -22,5 +23,6 @@ export {
   GoogleProvider,
   FacebookProvider,
   DB,
-  StoreDB
+  StoreDB,
+  storage
 }
